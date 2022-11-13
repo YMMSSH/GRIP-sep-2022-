@@ -11,3 +11,7 @@ Exploratory Data Analysis-Terrorism
 ● What all security issues and insights you can derive by EDA?
 
 ● Dataset: https://bit.ly/2TK5Xn5
+
+# The Dashboard 
+
+https://public.tableau.com/authoring/terrorism_16682871748810/Sheet1/Dashboard%201#1
